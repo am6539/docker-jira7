@@ -1,4 +1,4 @@
-
+1. Cài đặt
 
 -----
 ### git clone
@@ -16,7 +16,12 @@ docker build . -t="coder965/jira-7"
 ```
 sudo docker-compose up -d
 ```
+-----
 
+2. Khi cài xong vào ip:3080 để setup Jira. Lấy key trial cho Jira sever như bình thường
+
+-----
+3. Setup xong vào Setting Application thấy Expired 2033 là thành công
 
 
 
